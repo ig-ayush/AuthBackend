@@ -1,1 +1,1 @@
-# Spring Auth Backend
+# Auth Backend - Spring Boot
